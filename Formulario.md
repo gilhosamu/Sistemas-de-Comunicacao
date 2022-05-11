@@ -1,4 +1,4 @@
-#Fórmulas
+# Fórmulas
 
 L = ((4*pi*d*f)/c)² dB (Atenuação)
 
@@ -44,7 +44,7 @@ Lel = 20*log(4*pi*d/λ)
 
   ##
 
-#Conceitos
+# Conceitos
 
 A comunicação pode ser classificada de acordo com a direção:
 
