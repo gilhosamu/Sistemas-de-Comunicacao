@@ -8,7 +8,6 @@ f = frequência em Hz
 
 log a(B)= x     a^x = B
 
-  ##
 
 Ganho de amplificação de Tensão: 
 
